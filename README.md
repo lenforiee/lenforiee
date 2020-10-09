@@ -16,7 +16,7 @@ I'm 15 years old enthusiast of coding in various languages.
 ### IDE's:
 
 <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
-<img alt="Atom" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//intellij-idea.svg"/>
+<img alt="Atom" width="30px" src="https://raw.githubusercontent.com/Lenforiee/lenforiee/main/assets//atom.svg"/>
 
 ## Contact me
 Discord: Lenforiee#1297 \
