@@ -4,7 +4,7 @@ I'm Marcelin but you might know me as Lenforiee.
 I'm 15 years old enthusiast of coding in various languages.
 
 
-I am currently working on some projects such as Osu! Discord bot with all servers. I also run osu server called Misumi and beatmaps mirror made by [Mempler](https://github.com/Mempler) called Kacktaube
+I am currently working on some projects such as Osu! Discord bot with all servers. I also run osu server called [Misumi](https://misumi.me/) and beatmaps mirror made by [Mempler](https://github.com/Mempler) called [Kacktaube](https://kacktaube.me/)
 ## Languages and IDE's
 
 ### Languages:
