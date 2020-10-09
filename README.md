@@ -1,8 +1,10 @@
 ## About me
-Hi, welcome on my profile!
+Hi, Welcome on my profile!
 I'm Marcelin but you might know me as Lenforiee.
 I'm 15 years old enthusiast of coding in various languages.
 
+
+I am currently working on some projects such as Osu! Discord bot with all servers. I also run osu server called Misumi and beatmaps mirror made by [Mempler](https://github.com/Mempler) called Kacktaube
 ## Languages and IDE's
 
 ### Languages:
