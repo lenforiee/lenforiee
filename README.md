@@ -35,5 +35,5 @@ Email:   [lenforiee@misumi.me](mailto:lenforiee@misumi.me)
 
 ## My coding activity
 
-<img align="left" alt="Chart" width="300px" src="https://wakatime.com/share/@849115ce-e71d-414d-887d-aeaef18f6ade/0180cf3f-eac6-444e-a748-e7c815c08b12.svg"/>
-<img align="left" alt="Chart" width="300px" src="https://wakatime.com/share/@849115ce-e71d-414d-887d-aeaef18f6ade/7313e3f1-9985-4932-86c4-05265ce3b80c.svg"/>
+<img align="left" alt="Chart" width="300px" src="https://wakatime.com/share/@849115ce-e71d-414d-887d-aeaef18f6ade/bc6f3bff-c8db-4604-90a4-2ab56257517d.svg"/>
+<img align="left" alt="Chart" width="300px" src="https://wakatime.com/share/@849115ce-e71d-414d-887d-aeaef18f6ade/97aa9b59-0f5b-4be1-a615-32b8e2645207.svg"/>
