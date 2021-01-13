@@ -1,6 +1,6 @@
 ## About me
 Hi, Welcome on my profile!
-I'm Marcelin but you might know me as Lenforiee.
+I'm Lenforiee.
 I'm 15 years old enthusiast of coding in various languages.
 
 
