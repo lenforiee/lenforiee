@@ -14,13 +14,12 @@ I also love to contribute in osu related things :3
 <img style="padding: 1.5px" align="left" alt="Go" width="20px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//go.svg"/>
 <img style="padding: 1.5px" align="left" alt="Python 3" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg"/>
 <img style="padding: 1.5px" align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//html5.svg"/>
-<img style="padding: 1.5px" alt="Javascript" width="31px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//javascript.svg"/>
-<img style="padding: 1.5px" align="left" alt="Rust" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//rust.svg"/>
-
+<img style="padding: 1.5px" align="left" alt="Javascript" width="31px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//javascript.svg"/>
+<img style="padding: 1.5px" alt="Rust" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//rust.svg"/>
 
 ### Soon languages to learn:
 
-<img style="padding: 1.5px" align="left" alt="Rust" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//cpp.svg"/>
+<img style="padding: 1.5px" align="left" alt="CPP" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//cpp.svg"/>
 <img style="padding: 1.5px" alt="CSharp" width="31px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//csharp.svg"/>
 
 
