@@ -4,7 +4,7 @@ I'm Lenforiee.
 I'm 15 years old enthusiast of coding in various languages.
 
 
-I am currently working on some private projects, my own osu bancho or neural networking 
+I am currently working on some private projects, my own osu bancho or neural networking.
 
 I also love to contribute in osu related things :3
 ## Languages and IDE's
