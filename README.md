@@ -4,8 +4,7 @@ I'm Lenforiee.
 I'm 15 years old enthusiast of coding in various languages.
 
 
-I am currently working on some projects such as Osu! Discord bot with all servers. <del>I also run osu server called [Misumi](https://misumi.me/) and beatmaps mirror made by [Mempler](https://github.com/Mempler) called [Kacktaube](https://kacktaube.me/)</del> \
-**NOT ANYMORE**
+I am currently working on some private projects, my own osu bancho or neural networking 
 
 I also love to contribute in osu related things :3
 ## Languages and IDE's
@@ -16,11 +15,12 @@ I also love to contribute in osu related things :3
 <img style="padding: 1.5px" align="left" alt="Python 3" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg"/>
 <img style="padding: 1.5px" align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//html5.svg"/>
 <img style="padding: 1.5px" alt="Javascript" width="31px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//javascript.svg"/>
+<img style="padding: 1.5px" align="left" alt="Rust" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//rust.svg"/>
 
 
 ### Soon languages to learn:
 
-<img style="padding: 1.5px" align="left" alt="Rust" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//rust.svg"/>
+<img style="padding: 1.5px" align="left" alt="Rust" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//cpp.svg"/>
 <img style="padding: 1.5px" alt="CSharp" width="31px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//csharp.svg"/>
 
 
@@ -30,7 +30,7 @@ I also love to contribute in osu related things :3
 <img alt="Atom" width="30px" src="https://raw.githubusercontent.com/Lenforiee/lenforiee/main/assets//atom.svg"/>
 
 ## Contact me
-Discord: Lenforiee#1297 \
+Discord: budget Lenforiee#5267 \
 Twitter: [@Lenforiee](https://twitter.com/Lenforiee) \
 Email:   [lenforiee@misumi.me](mailto:lenforiee@misumi.me)
 
