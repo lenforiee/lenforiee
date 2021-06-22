@@ -1,7 +1,7 @@
 ## About me
 Hi, Welcome on my profile!
 I'm Lenforiee.
-I'm 15 years old enthusiast of coding in various languages.
+I'm 16 years old enthusiast of coding in various languages.
 
 
 I am currently working on some private projects, my own osu bancho or neural networking.
