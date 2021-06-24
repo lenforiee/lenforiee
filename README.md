@@ -29,8 +29,8 @@ I also love to contribute in osu related things :3
 <img alt="Atom" width="30px" src="https://raw.githubusercontent.com/Lenforiee/lenforiee/main/assets//atom.svg"/>
 
 ## Contact me
-Discord: budget Lenforiee#5267 \
-Twitter: [@Lenforiee](https://twitter.com/Lenforiee) \
+Discord: lenforiee.#0323 \
+Twitter: [@lenforiee](https://twitter.com/lenforiee) \
 Email:   [lenforiee@misumi.me](mailto:lenforiee@misumi.me)
 
 ## My coding activity
